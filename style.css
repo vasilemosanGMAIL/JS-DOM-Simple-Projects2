@@ -1,0 +1,27 @@
+#button {
+  height: 40px;
+  background: #448b6a;
+  padding: 0 20px 0 20px;
+  font-weight: bold;
+  font-size: 17px;
+  position: fixed;
+  top: 25%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+#main {
+  background: #a4a8a6;
+  padding: 0 20px 0 20px;
+  font-weight: bold;
+  font-size: 17px;
+  position: fixed;
+  color: rgb(116, 4, 4);
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-family: "Akaya Telivigala";
+}
+
+body {
+  background: black;
+}
